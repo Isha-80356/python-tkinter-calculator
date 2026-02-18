@@ -23,7 +23,7 @@ This project was created as a beginner GUI application for learning Python Tkint
 
 ## Screenshot
 
-![Calculator UI](Screenshot 2026-02-18 220618.png)
+![Calculator UI][(Screenshot 2026-02-18 220618.png)](https://github.com/Isha-80356/python-tkinter-calculator/blob/main/Screenshot%202026-02-18%20220618.png)
 
 
 ## Author
